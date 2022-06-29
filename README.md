@@ -1,5 +1,5 @@
 # SGD-data-analysis
-Trabalho realizado na cadeira de Sistemas e Gestão de Dados que consiste na análise e tratamento de dados de um conjunto de datasets. O tema deste trabalho era o seguinte: <b> Análise da Energia/Eletricidade no Mundo e os seus impactos a nível económico e climático <b>.**
+Trabalho realizado na cadeira de Sistemas e Gestão de Dados que consiste na análise e tratamento de dados de um conjunto de datasets. O tema deste trabalho era o seguinte: <b> Análise da Energia/Eletricidade no Mundo e os seus impactos a nível económico e climático <b>.
 Este trabalho foi realizado juntamente com o meu colega Diogo Filipe.
 
 Tecnologias utilizadas:
